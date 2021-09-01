@@ -2,9 +2,9 @@
 
 <h3 align="center">I'm a curious and passionate Back End Developer</h3>
 
- 🔭 I’m currently working on Api Rest**
+ 🔭 I’m currently working on Api Rest
 
- 🌱 I’m currently learning Java, Spring Boot, SQL, Maven, Hibernate and a little bit of Python**
+ 🌱 I’m currently learning Java, Spring Boot, SQL, Maven, Hibernate and a little bit of Python
  
  ⚡ Fun fact **I'm an absolute cookie lover**
 
