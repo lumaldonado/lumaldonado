@@ -5,10 +5,11 @@
  🔭 I’m currently working on Api Rest**
 
  🌱 I’m currently learning Java, Spring Boot, SQL, Maven, Hibernate and a little bit of Python**
+ 
+ ⚡ Fun fact **I'm an absolute cookie lover**
 
  📫 How to reach me **lumaldonado0898@gmail.com**
 
- ⚡ Fun fact **I'm an absolute cookie lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
