@@ -2,13 +2,15 @@
 
 <h3 align="center">I'm a curious Back End Developer</h3>
 
+![lumaldonado's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumaldonado&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumaldonado&layout=compact&theme=tokyonight)](https://github.com/lumaldonado/github-readme-stats)
+
  🔭 I’m currently working on Api Rest
 
- 🌱 I’m currently learning Java, Spring Boot, SQL, Maven, Hibernate and a little bit of Python
+ 🌱 I’m learning Java, Spring Boot, SQL, Maven, Hibernate and a little bit of Python
  
  ⚡ Fun fact **I'm an absolute cookie lover**
  
- 👨‍💻 All of my projects are available at https://github.com/lumaldonado
+ 👨‍💻 All of my projects are available at **https://github.com/lumaldonado**
 
  📫 How to reach me **lumaldonado0898@gmail.com**
 
