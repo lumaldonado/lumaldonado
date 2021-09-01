@@ -1,6 +1,6 @@
 <h1 align="center">Hi, There! 👋</h1>
 
-<h3 align="center">I'm a curious and passionate Back End Developer</h3>
+<h3 align="center">I'm a curious Back End Developer</h3>
 
  🔭 I’m currently working on Api Rest
 
