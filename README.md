@@ -8,7 +8,7 @@
 
  🌱 I’m learning Java, Spring Boot, SQL, Maven, Hibernate and a little bit of Python
  
- ⚡ Fun fact **I'm an absolute cookie lover**
+ ⚡ Fun fact **I'm an absolute chocolate chip cookie lover**
  
  👨‍💻 All of my projects are available at **https://github.com/lumaldonado**
 
